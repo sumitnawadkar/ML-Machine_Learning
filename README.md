@@ -1,7 +1,9 @@
 Kaggle_Books-Selling-Records
+
 The Kaggle_Books-Selling-Records.csv dataset provides a comprehensive overview of book selling records, capturing key information about book titles, authors, genres, sales figures, and customer reviews. With entries and features, this dataset offers a rich source for understanding the dynamics of the book market.
 
 Key Features:
+
 Book Details: Includes information on book titles, authors, genres, and publication details.
 
 Sales Metrics: Provides data on sales figures, including the number of copies sold and revenue generated.
