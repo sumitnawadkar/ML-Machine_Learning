@@ -1,4 +1,4 @@
-                # ML Machine Learning
+ # ML Machine Learning
 
 Business Problem: Healthcare professionals are trying to identify the main causes of in-hospital mortality for admitted patients. By having a clear understanding of the causes early on, healthcare professionals will be in a better position to develop targeted interventions, and implement evidence-based protocols to address the factors that contribute to in-hospital patient deaths.
 
